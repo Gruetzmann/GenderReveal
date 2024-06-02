@@ -1,4 +1,4 @@
-const GameDifficulty=[10,18,25];
+const GameDifficulty=[10,22,35];
 class Game{
     difficulty;//difficulty based on GameDifficulty array
     cols=3;//how many colomns
